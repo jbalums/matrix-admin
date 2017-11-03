@@ -1,0 +1,4 @@
+#header h1 {
+    background: url(../assets/img/logo.png) no-repeat scroll 0 0 transparent; 
+    /**change img/logo.png for your custom logo**/
+}

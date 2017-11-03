@@ -1,9 +1,9 @@
 # Matrix-Admin Template by <a href="http://themedesigner.in/">Themedesigner.in</a>
 
 
-<i>A Blade templated Matrix-Admin Template, templated by Joel Baluma</i>
-<i>The app is created using Laravel 5.5. </i>
-<i>This app is for test only.</i>
+<i>A Blade templated Matrix-Admin Template, templated by Joel Baluma</i><br>
+<i>The app is created using Laravel 5.5. </i><br>
+<i>This app is for test only.</i><br>
 
 <h5>Steps on how to install</h5>
  
